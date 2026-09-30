@@ -1,0 +1,4 @@
+/workspace/src/test/java/co/com/fcv/training/citas/AuthIntegrationTest.java
+/workspace/src/test/java/co/com/fcv/training/citas/SchedulingServiceIntegrationTest.java
+/workspace/src/test/java/co/com/fcv/training/citas/config/AuthRequestGuardTest.java
+/workspace/src/test/java/co/com/fcv/training/citas/domain/IdentityTest.java
